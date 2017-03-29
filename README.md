@@ -1,4 +1,4 @@
-# sdk_manager_icon
+# sdk manager icon
 
 icon the sdk manager, only for interested, since I did not find one decent by google
 
